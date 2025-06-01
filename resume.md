@@ -76,4 +76,4 @@ Utah Valley University — Orem, UT (ABET-accredited)
 ---
 
 ## Links
-- [LinkedIn](https://linkedin.com)
+- [LinkedIn](https://www.linkedin.com/in/ben-thornhill-b7a633160/)
