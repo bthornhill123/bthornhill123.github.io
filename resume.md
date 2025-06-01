@@ -73,8 +73,8 @@ Experienced Senior Software Engineer with 7+ years in designing scalable, secure
 ---
 
 ## Education
-**Bachelor of Science in Computer Science**  
-Utah Valley University — Orem, UT
+**Bachelor of Science in Computer Science, Cum Laude (GPA: 3.8)**  
+Utah Valley University — Orem, UT (ABET-accredited)
 - Built a compiler for senior capstone that compiled programs written in a C-like language into assembly language programs. Additionally, built a virtual machine that executes assembly language programs
 - Notable classes: Operating Systems, Computer Networks, Web Development, Data Structures and Algorithms, Software Design, Artificial Intelligence, Computer Architecture, Advanced C#, Advanced C++, NoSQL Databases, Numerical Analysis
 
