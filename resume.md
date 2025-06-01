@@ -13,7 +13,17 @@ Experienced Senior Software Engineer with 7+ years in designing scalable, secure
 ---
 
 ## Skills
-Typescript, GoLang, C#, Angular, React, Next, RxJS, Cypress, Javascript, HTML, CSS, .NET Core, MediatR, Node.js, Prisma, Express, Java, Spring Batch, AWS, GCP, Azure, OCI, MySQL, SQL Server, PostgreSQL, Oracle, MongoDB, Git, Docker, RabbitMQ, Microservices, Agile, Design Patterns, Scrum, Unit Testing.
+**Languages:** Typescript, GoLang, C#, Java, JavaScript
+
+**Frameworks/Libraries:** Angular, React, Next.js, RxJS, Cypress, .NET Core, MediatR, Node.js, Prisma, Express, Spring Batch
+
+**Cloud Platforms:** AWS, GCP, Azure, OCI
+
+**Databases:** PostgreSQL, MySQL, SQL Server, Oracle, MongoDB
+
+**Tools:** Git, Docker, RabbitMQ
+
+**Methodologies/Practices:** Microservices, Agile, Design Patterns, Scrum, Unit Testing
 
 ---
 
