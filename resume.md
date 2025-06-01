@@ -3,6 +3,11 @@
 **Salt Lake City, US**  
 **Email:** bthornhill123@gmail.com
 
+## Professional Summary
+Experienced Senior Software Engineer with 7+ years designing scalable, secure software solutions. Proficient in full-stack development, cloud computing, and modern engineering practices, with expertise in Angular, React, GoLang, .NET Core, AWS, GCP, and Azure. Skilled in performance optimization, intuitive UI design, and system integration.
+
+---
+
 ## Skills
 **Languages:** Typescript, GoLang, C#, Java, JavaScript
 
@@ -15,11 +20,6 @@
 **Tools:** Git, Docker, RabbitMQ
 
 **Methodologies/Practices:** Microservices, Agile, Design Patterns, Scrum, Unit Testing
-
----
-
-## Professional Summary
-Experienced Senior Software Engineer with 7+ years designing scalable, secure software solutions. Proficient in full-stack development, cloud computing, and modern engineering practices, with expertise in Angular, React, GoLang, .NET Core, AWS, GCP, and Azure. Skilled in performance optimization, intuitive UI design, and system integration.
 
 ---
 
