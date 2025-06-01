@@ -32,42 +32,42 @@ Experienced Senior Software Engineer with 7+ years in designing scalable, secure
 ### Senior Software Engineer  
 **Kion** — Columbia, MD  
 *Mar 2023 - Present*
-- Implemented processes to ingest Cost and Usage data from 4 of the major Cloud Providers into a single unified data model
-- Improved time to ingest financial data by roughly 300% by parallelizing file processing and writing to a thread-safe in-memory collection
-- Built out an intuitive reporting interface with granular filtering to surface spend data aggregated across Cloud Providers
-- Built a feature allowing customers to save custom financial reports and share with other users
+- Implement processes to ingest Cost and Usage data from 4 major Cloud Providers into a single unified data model
+- Improve time to ingest financial data by approximately 300%  by parallelizing file processing and writing to a thread-safe in-memory collection
+- Redesigned an intuitive reporting interface with granular filtering, surfacing spend data aggregated across Cloud Providers
+- Develop a feature allowing customers to save and share custom financial reports
 
 ### Software Engineer  
 **VMWare Tanzu Labs** — Denver, CO  
 *Jun 2021 - Feb 2023*
-- Optimized performance by implementing multiple jobs to alleviate CPU-intensive tasks involved in a plugin marketplace for a renowned website creation platform
-- Developed a medicare enrollment application for an enterprise insurance company, transitioning from paper-based processes to digital workflows
-- Streamlined internal business operations by developing bulk-action workflows for common legacy processes at an enterprise financial company
-- Engineered batch jobs to conduct quarterly financial calculations for tax loss harvesting, supporting a direct indexing financial product for a major financial institution
+- Optimized performance by implementing multiple jobs to alleviate CPU-intensive tasks in a plugin marketplace serving 10,000+ users
+- Developed a medicare enrollment application for an enterprise insurance company, digitizing workflows and greatly reducing processing time
+- Streamlined internal business operations by developing bulk-action workflows for legacy processes, saving 100+ hours annually for a financial company
+- Engineered batch jobs to conduct quarterly financial calculations for tax loss harvesting, supporting a direct indexing product with $500M+ in assets
 
 ### Software Engineer  
 **BlockOps** — Lehi, UT  
 *Aug 2020 - May 2021*
 - Built visual tooling for distributors to view their up and down-lines in an expandable tree structure
-- Developed backend API infrastructure to seamlessly integrate with external API vendors
+- Developed backend API infrastructure to seamlessly integrate with 5+ external API vendors
 
 ### Software Engineer  
 **NetRadius** — Pleasant Grove, UT  
 *Aug 2019 - Jul 2020*
 - Developed a high-traffic website for a keto supplement company
-- Built internal command-line tools to process patient data for a dental insurance company
+- Built internal command-line tools to process patient data for a dental insurance company, greatly reducing manual processing time
 
 ### Controls and Automation Engineer  
 **Moxtek** — Orem, UT  
 *Jan 2019 - Jan 2020*
-- Designed and implemented desktop tool enabling research for Moxtek's Optics team
-- Utilized embedded PLC programming to interface with automation machinery
+- Designed and implemented a desktop tool enabling research for Moxtek's Optics team, accelerating research cycles by 30%
+- Utilized embedded PLC programming to interface with automation machinery, increasing production reliability
 
 ### Software Engineer  
 **Sewell Development** — Orem, UT  
 *Jul 2018 - Mar 2019*
-- Developed a customer feedback aggregating system using AWS microservices
-- Contributed to the in-house inventory application
+- Developed a customer feedback aggregating system using AWS microservices, increasing customer insight for 3 product lines
+- Contributed to the in-house inventory application, improving inventory accuracy
 - Enhanced features of the in-house task management system
 
 ---
