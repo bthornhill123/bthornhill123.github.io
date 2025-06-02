@@ -279,6 +279,59 @@ h2 {
   margin-bottom: 0.3em;
   line-height: 1.6;
 }
+
+.exp-icon {
+  font-size: 1.2em;
+  margin-right: 0.4em;
+  vertical-align: -2px;
+}
+.exp-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.3em;
+}
+.exp-card {
+  background: rgba(30, 30, 40, 0.92);
+  border-left: 5px solid #00ff90; /* Changed from gold to green for consistency */
+  border-radius: 10px;
+  box-shadow: 0 2px 12px #00ff9022;
+  padding: 1.2em 1.5em 1em 1.5em;
+}
+.exp-role-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2em;
+  align-items: baseline;
+  font-size: 1.08em;
+  margin-bottom: 0.3em;
+}
+.exp-role {
+  font-weight: bold;
+  color: #fff200;
+  font-family: 'Fira Mono', monospace;
+}
+.exp-company {
+  color: #00ff90;
+  font-weight: bold;
+  font-size: 0.98em;
+}
+.exp-location {
+  color: #b2fffa;
+  font-size: 0.97em;
+}
+.exp-dates {
+  color: #e0e0e0;
+  font-size: 0.95em;
+}
+.exp-list-items {
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  padding-left: 1.2em;
+}
+.exp-list-items li {
+  margin-bottom: 0.3em;
+  line-height: 1.6;
+}
 @media (max-width: 600px) {
   body {
     padding: 0.5rem;
@@ -300,6 +353,13 @@ h2 {
     gap: 0.2em;
   }
   .edu-card {
+    padding: 1em 0.7em 0.7em 0.7em;
+  }
+  .exp-role-row {
+    flex-direction: column;
+    gap: 0.2em;
+  }
+  .exp-card {
     padding: 1em 0.7em 0.7em 0.7em;
   }
 }
