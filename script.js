@@ -5,7 +5,8 @@ window.addEventListener('DOMContentLoaded', () => {
   const title = document.querySelector('.retro-title');
   if (!title) return;
   const text = title.textContent;
-  const prompt = title.querySelector('.prompt')?.outerHTML || '';
+  // Use a single prompt symbol, styled
+  const prompt = '<span class="prompt">&gt;_</span> ';
   let i = 0;
   function type() {
     title.innerHTML = prompt + text.slice(0, i) + '<span class="cursor">█</span>';
