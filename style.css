@@ -110,6 +110,36 @@ h2 {
   text-shadow: 0 0 6px #00ff90;
 }
 
+.links-list {
+  display: flex;
+  gap: 1.2em;
+  flex-wrap: wrap;
+  margin-top: 0.7em;
+}
+.link-card {
+  display: flex;
+  align-items: center;
+  background: #232526;
+  color: #00e6ff;
+  text-decoration: none;
+  padding: 0.7em 1.2em;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.1em;
+  box-shadow: 0 2px 8px #0003;
+  transition: background 0.2s, color 0.2s, transform 0.2s;
+  border: 2px solid #00ff90;
+}
+.link-card:hover {
+  background: #00ff90;
+  color: #232526;
+  transform: translateY(-2px) scale(1.04);
+}
+.link-icon {
+  font-size: 1.4em;
+  margin-right: 0.7em;
+}
+
 @media (max-width: 600px) {
   body {
     padding: 0.5rem;
